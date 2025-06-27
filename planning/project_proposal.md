@@ -14,7 +14,7 @@ Our project is a professional, mood-aware calendar website designed to help user
 
 Mood-Aware Calendar (MVP)
 - Toggleable views: daily, weekly, monthly
-- Visualization of emotional state alongside scheduled tasks using graphs
+- Visualization of emotional state alongside scheduled tasks using graphs (Stretch)
   
 Smart Suggestions for Calendar Gaps (MVP)
 - Suggests quick tasks, rest breaks, or micro-steps based on current mood and to-dos
