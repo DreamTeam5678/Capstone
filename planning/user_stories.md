@@ -32,9 +32,9 @@ Include at least 10 user stories.
 1. As a student, I want a quick way to reschedule tasks when things pile up, so I do not feel left behind. 
 2. As a student, I want to be able to balance my club meetings with my academic commitments, to use my days more efficiently. 
 3. As a student, I want to use the site to time myself and use the vibe room so that I can stay focused while studying.
-4. As a professional , i want a calendar that shows me the most optimal way to get all of my tasks done for the day 
-5. As a professional , I want this site to help me be more productive on days where I don't feel 100% .
-6. As a professional , I want to see a list of completed tasks and tasks that are most important towards my daily/weekly/monthly goals. 
+4. As a professional, I want a calendar that shows me the most optimal way to get all of my tasks done for the day 
+5. As a professional, I want this site to help me be more productive on days where I don't feel 100% .
+6. As a professional, I want to see a list of completed tasks and tasks that are most important towards my daily/weekly/monthly goals. 
 7. As an everyday user, I want Prism to suggest tasks or activities that align with my long-term goals so I do not waste time on things that do not fulfill me.
 8. As an everyday user, I want to get motivating feedback like (streaks or stars), so that I feel encouraged to complete tasks.
 9. As an everyday user, I want to be exposed to new experiences and hobbies, so that I can experience personal growth.
