@@ -5,6 +5,8 @@ Pod Members: **Senaf Geleta, Lauritz Patterson, Pamela Mensah **
 ## Problem Statement and Description
 In fast-paced academic and professional environments, individuals often struggle to balance productivity with emotional wellness. Existing calendar tools are rigid and task-centric, failing to accommodate fluctuations in mood and energy levels, leading to burnout, procrastination, or overwhelm. Our target audience is everyone navigating modern life. From students, professionals, parents, creatives, caregivers, neurodivergent individuals, to anyone seeking a more balanced, emotionally intelligent way to plan their days.
 
+Our project is a mood-aware calendar and life planner designed to help users align daily planning with smart optimization, making productivity more intuitive and emotionally supportive. It offers smart suggestions, AI-powered personalization, and gamified motivation to create a flexible, optimized planning experience. Designed for anyone looking to better manage their time, the platform uses emotional insight to make scheduling feel more natural and sustainable.
+
 ## User Roles and Personas
 
 1. Professional-  a user who is seeking a way to maximize their workday and 
