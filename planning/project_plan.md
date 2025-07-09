@@ -30,6 +30,8 @@ be more productive without burning out.
 ## Pages/Screens
 
 List all the pages and screens in the app. Include wireframes for at least 3 of them.
+Welcome Landing Page - Sign Up - Survey Page - Home Page - Task Page
+Welcome Landing Page - Log In - Home Page - Task Page
 
 ## Data Model
 
