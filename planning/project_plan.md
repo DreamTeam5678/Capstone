@@ -33,12 +33,20 @@ List all the pages and screens in the app. Include wireframes for at least 3 of 
 Welcome Landing Page - Sign Up - Survey Page - Home Page - Task Page
 Welcome Landing Page - Log In - Home Page - Task Page
 
+<img width="1466" alt="image" src="https://github.com/user-attachments/assets/efd2bdec-1d80-4304-a8d9-98e8642f3987" />
+
+
 ## Data Model
 
 Describe your app's data model using diagrams or tables
 
+<img width="1423" alt="image" src="https://github.com/user-attachments/assets/8527e3fc-2e2e-4963-a9ec-5431072fb068" />
+
+
 ## Endpoints
 
 List the API endpoints you will need to implement.
+<img width="963" alt="image" src="https://github.com/user-attachments/assets/22f1cd28-0e7e-43bd-aebc-b9d8d66d83ce" />
+
 
 ***Don't forget to set up your Issues, Milestones, and Project Board!***
