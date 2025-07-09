@@ -1,18 +1,31 @@
 # Project Plan
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Senaf Geleta, Lauritz Patterson, Pamela Mensah **
 
 ## Problem Statement and Description
-
-Insert the latest summary of your problem statement and app description.
+In fast-paced academic and professional environments, individuals often struggle to balance productivity with emotional wellness. Existing calendar tools are rigid and task-centric, failing to accommodate fluctuations in mood and energy levels, leading to burnout, procrastination, or overwhelm. Our target audience is everyone navigating modern life. From students, professionals, parents, creatives, caregivers, neurodivergent individuals, to anyone seeking a more balanced, emotionally intelligent way to plan their days.
 
 ## User Roles and Personas
 
-Include the most up-to-date user roles and personas.
+1. Professional-  a user who is seeking a way to maximize their workday and 
+be more productive without burning out.
+
+2. Student - A college student juggling work and studies trying to optimize their limited time whilst managing stress and energy.
+
+3. Everyday User- An individual who is looking to maximize and better plan out their personal time.
 
 ## User Stories
+1. As a student, I want a quick way to reschedule tasks when things pile up, so I do not feel left behind. 
+2. As a student, I want to be able to balance my club meetings with my academic commitments, to use my days more efficiently. 
+3. As a student, I want to use the site to time myself and use the vibe room so that I can stay focused while studying.
+4. As a professional , i want a calendar that shows me the most optimal way to get all of my tasks done for the day 
+5. As a professional , I want this site to help me be more productive on days where I don't feel 100% .
+6. As a professional , I want to see a list of completed tasks and tasks that are most important towards my daily/weekly/monthly goals. 
+7. As an everyday user, I want Prism to suggest tasks or activities that align with my long-term goals so I do not waste time on things that do not fulfill me.
+8. As an everyday user, I want to get motivating feedback like (streaks or stars), so that I feel encouraged to complete tasks.
+9. As an everyday user, I want to be exposed to new experiences and hobbies, so that I can experience personal growth.
+10. As a professional, I want Prism to recommend tasks based on my energy level, so I do not waste my few free hours on the wrong things.
 
-List the current user stories you will implement.
 
 ## Pages/Screens
 
