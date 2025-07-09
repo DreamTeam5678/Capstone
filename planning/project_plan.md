@@ -1,6 +1,6 @@
 # Project Plan
 
-Pod Members: **Senaf Geleta, Lauritz Patterson, Pamela Mensah **
+Pod Members: **Senaf Geleta, Lauritz Patterson, Pamela Mensah**
 
 ## Problem Statement and Description
 In fast-paced academic and professional environments, individuals often struggle to balance productivity with emotional wellness. Existing calendar tools are rigid and task-centric, failing to accommodate fluctuations in mood and energy levels, leading to burnout, procrastination, or overwhelm. Our target audience is everyone navigating modern life. From students, professionals, parents, creatives, caregivers, neurodivergent individuals, to anyone seeking a more balanced, emotionally intelligent way to plan their days.
