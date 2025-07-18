@@ -1,6 +1,6 @@
 # Reflection #1
 
-Pod Members: **Add Pod Members Names**
+Pod Members: **Pamela Mensah, Lauritz Henderson, Senaf Geleta**
 
 ## Reflection Questions
 
