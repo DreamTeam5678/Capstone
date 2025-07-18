@@ -11,3 +11,4 @@ For each group deliverable, have **one member** of your pod submit a link to thi
 * **Project Proposal:** Week 4
 * **User Stories:** Week 5
 * **Development Plan:** Week 6
+* **Project Plan:** Week 7 
